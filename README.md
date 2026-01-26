@@ -1,6 +1,6 @@
 What's Up?
 
-I’m interested in php, kotlin, linux, mysql, redis, pascal, javascript;
+I’m interested in php, kotlin, linux, mysql, redis, pascal, javascript, Rust;
 
 
 <!---
