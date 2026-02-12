@@ -36,5 +36,5 @@ Sou apaixonado por tecnologia, performance e segurança. Atualmente, foco meus e
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Link para seu perfil](https://linkedin.com/in/leonardocardosolopes)
+- **LinkedIn:** [Link para meu perfil](https://linkedin.com/in/leonardocardosolopes)
 
