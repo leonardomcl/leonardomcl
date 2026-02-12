@@ -2,15 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor & Entusiasta de Segurança Digital
 
-Sou apaixonado por tecnologia de baixo nível, performance e segurança. Atualmente, foco meus estudos em **Pascal (Delphi)** e **Rust**, explorando como os dados são estruturados e protegidos.
-
----
-
-### 🚀 Projeto em Destaque: [Invisibilis](https://github.com/leonardomcl/invisibilis)
-**Invisibilis** é uma ferramenta de esteganografia desenvolvida em Delphi que permite ocultar mensagens criptografadas em imagens usando a técnica LSB (Least Significant Bit).
-- 🛡️ Criptografia AES-128 integrada.
-- 🖼️ Manipulação de pixels em tempo real.
-- ⚡ Processamento assíncrono e interface moderna.
+Sou apaixonado por tecnologia, performance e segurança. Atualmente, foco meus estudos em **PHP**, **Pascal (Delphi)** e **Rust**, explorando como os dados são estruturados e protegidos.
 
 ---
 
@@ -44,10 +36,5 @@ Sou apaixonado por tecnologia de baixo nível, performance e segurança. Atualme
 ---
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Link para seu perfil](https://linkedin.com/in/seu-usuario)
-- **Portfólio:** Confira minhas releases para baixar o executável do **Invisibilis**.
+- **LinkedIn:** [Link para seu perfil](https://linkedin.com/in/leonardocardosolopes)
 
----
-<p align="center">
-  <i>"Protegendo informações, um bit de cada vez."</i>
-</p>
